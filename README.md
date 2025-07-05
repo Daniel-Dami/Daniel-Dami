@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielDami2
+- 👋 Hi, I’m @Daniel-Dami
 - 👀 I’m interested in making fun games
 - 🌱 I’m currently learning about Adobe Animate
 - 💞️ I’m looking to collaborate on ...
